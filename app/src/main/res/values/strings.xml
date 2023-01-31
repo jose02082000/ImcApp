@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ImcCalculate</string>
+    <string name="male">Hombre</string>
+    <string name="female">mujer</string>
+    <string name="height">altura</string>
+    <string name="weight">peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">tu resultado es </string>
+    <string name="recalculate">Re-calcular</string>
+
+    <string name="error">error </string>
+
+    <string name="tittle_low_wheight">Tú IMC y peso son bajos </string>
+    <string name="description_low_weight">Tú IMC y peso está por debajo de los estándares para tu peso y altura </string>
+    <string name="tittle_normal_wheight">Peso normal </string>
+    <string name="description_normal_weight">Tu IMC es normal </string>
+    <string name="tittle_hihgt_wheight">Tu IMC y peso son algo elevados </string>
+    <string name="description_hihgt_weight">Tu IMC y peso está algo por encima de los estándares para tu altura </string>
+    <string name="tittle_rehihgt_wheight">Tu IMC y peso son muy elevados </string>
+    <string name="description_rehihgt_weight">Tu IMC y peso está muy por encima de los estándares para tu altura </string>
+
+</resources>
